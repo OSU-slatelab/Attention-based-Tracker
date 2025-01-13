@@ -1,0 +1,13 @@
+*.swp
+attn_asr_char40_sbLOC_lstm
+cmu_kids
+logs
+problem_cases
+problem_cases_hard
+__pycache__
+readr
+results_las.txt
+results_manual.txt
+results.txt
+models2.py
+discrete_dump.py
