@@ -16,3 +16,7 @@ This repository contains an implementation of attention based tracker model intr
 To train the pointer network, run `run_training.sh`. The pointer network will train using alignments from an AED-based ASR model.
 
 To test the pointer network, run `run_test.sh`
+
+## Acknowledgement
+
+This work was funded by NSF grant 2008043, "RI: Small: Early Elementary Reading Verification in Challenging Acoustic Environments."
